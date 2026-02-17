@@ -255,7 +255,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _enseignements
+  # _teaching
   - scope:
       path: ""
       type: teaching
@@ -282,7 +282,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _communications
+  # _talks
   - scope:
       path: ""
       type: talks

@@ -12,16 +12,16 @@ main:
     url: /publications/
 
   - title: "Communications"
-    url: /communications/    
+    url: /talks/    
 
   - title: "Enseignements"
-    url: /enseignements/    
+    url: /teaching/    
     
  # - title: "Portfolio"
  #  url: /portfolio/
         
   - title: "Actualités"
-    url: /actualités/
+    url: /year-archive/
     
   #- title: "CV"
   #  url: /cv/
